@@ -9,5 +9,5 @@
 
 
 
-##### >Rodrigo Troncoso
+##### - Rodrigo Troncoso
 *Jaume I University, Spain*
