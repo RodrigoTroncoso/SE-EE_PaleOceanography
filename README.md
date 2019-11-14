@@ -42,7 +42,7 @@ Rodrigo Troncoso
 
 * **Pablo Santamarina**
 
-*   Innovex, Chile*
+  *Innovex, Chile*
 
 > **Rodrigo Troncoso**
 
