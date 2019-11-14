@@ -19,7 +19,8 @@
 
 > **Pablo Santamariina** - *Innovex (Ltd.), Chile*
 
-> **Rodrigo Troncoso** - *Jaume I University, Spain*.text-red on white 
+> **Rodrigo Troncoso** - *Jaume I University, Spain*
+
 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
