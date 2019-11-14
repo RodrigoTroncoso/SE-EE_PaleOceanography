@@ -38,9 +38,8 @@ Rodrigo Troncoso
 
 ## Collaborators
 
-* **Dharma Reyes** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Dharma Reyes** - *Initial work* - [PurpleBooth](https://www.marum.de/Dharma-Andrea-Reyes-Macaya.html)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 *University of Bremen, Germany*
 
@@ -52,3 +51,6 @@ See also the list of [contributors](https://github.com/your/project/contributors
 * **Rodrigo Troncoso**
 
 *Jaume I University, Spain*
+
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
