@@ -1,7 +1,7 @@
 # SE-EE_PaleOceanography
 
 
-## Collaborators
+## Authors
 
 * **Dharma Reyes** - *MARUM Institute, University of Bremen, Germany* 
 
@@ -11,7 +11,7 @@
 
 
 
-## Collaborators
+## Collaboratos
 
 > **Dharma Reyes** - *MARUM Institute, University of Bremen, Germany* 
 
