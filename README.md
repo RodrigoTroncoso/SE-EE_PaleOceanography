@@ -5,7 +5,7 @@
 
 * **Dharma Reyes** - *MARUM Research, University of Bremen, Germany* 
 
-* **Pablo Santamarina** - [*Innovex, Ltd.](www.innovex.cl), Chile*
+* **Pablo Santamarina** - [*Innovex, Ltd.*](www.innovex.cl), Chile*
 
 * **Rodrigo Troncoso** - *Jaume I University, Spain*
 
