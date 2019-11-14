@@ -40,7 +40,9 @@ Rodrigo Troncoso
 
 * **Dharma Reyes** - *University of Bremen, Germany* - [MARUM](https://www.marum.de/Dharma-Andrea-Reyes-Macaya.html)
 
-* **Pablo Santamarina** - *Innovex, Chile*
+* **Pablo Santamarina**
+
+*   Innovex, Chile*
 
 > **Rodrigo Troncoso**
 
