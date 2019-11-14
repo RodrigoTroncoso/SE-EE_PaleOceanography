@@ -36,8 +36,19 @@ Rodrigo Troncoso
 
 
 
-## Authors
+## Collaborators
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Dharma Reyes Macaya** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+*University of Bremen, Germany*
+
+* **Pablo Santamarina**
+*Innovex, Chile*
+
+
+
+* **Rodrigo Troncoso**
+
+*Jaume I University, Spain*
