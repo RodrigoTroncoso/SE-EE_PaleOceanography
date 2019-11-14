@@ -38,15 +38,9 @@ Rodrigo Troncoso
 
 ## Collaborators
 
-* **Dharma Reyes** - *Initial work* - [PurpleBooth](https://www.marum.de/Dharma-Andrea-Reyes-Macaya.html)
-
-
-*University of Bremen, Germany*
+* **Dharma Reyes** - *University of Bremen, Germany* - [MARUM](https://www.marum.de/Dharma-Andrea-Reyes-Macaya.html)
 
 * **Pablo Santamarina** - *Innovex, Chile*
-                     *Innovex, Chile*
-
-
 
 * **Rodrigo Troncoso**
 
