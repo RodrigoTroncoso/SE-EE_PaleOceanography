@@ -1,44 +1,8 @@
 # SE-EE_PaleOceanography
 
-#### Collaborators:
-##### > Dharma Reyes Macaya
-##### *University of Bremen, Germany*
-
-> Pablo Santamarina
->*Innovex, Chile*
-
-
-
-##### - Rodrigo Troncoso
-*Jaume I University, Spain*
-
-
-
-
-
-
-
-### Collaborators:
-
-Dharma Reyes Macaya
-
-*University of Bremen, Germany*
-
-Pablo Santamarina
-*Innovex, Chile*
-
-
-
-Rodrigo Troncoso
-
-*Jaume I University, Spain*
-
-
-
-
 ## Collaborators
 
-* **Dharma Reyes** - *University of Bremen, Germany* - [MARUM](https://www.marum.de/Dharma-Andrea-Reyes-Macaya.html)
+* **Dharma Reyes** - [MARUM Institute](https://www.marum.de/Dharma-Andrea-Reyes-Macaya.html), - *University of Bremen, Germany* - 
 
 * **Pablo Santamarina**
 
