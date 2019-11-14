@@ -1,5 +1,4 @@
-# (Under Construction)
-{: .gitlab-red}
+# (Under Construction){: .gitlab-red}
 
 ## SE-EE_PaleOceanography
 
