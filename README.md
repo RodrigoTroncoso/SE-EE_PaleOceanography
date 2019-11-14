@@ -2,7 +2,7 @@
 
 ## Collaborators
 
-* **Dharma Reyes** - [MARUM Institute](https://www.marum.de/Dharma-Andrea-Reyes-Macaya.html), - *University of Bremen, Germany* - 
+* **Dharma Reyes** [MARUM Institute](https://www.marum.de/Dharma-Andrea-Reyes-Macaya.html), *University of Bremen, Germany* 
 
 * **Pablo Santamarina**
 
