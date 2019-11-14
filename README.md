@@ -13,7 +13,7 @@
 
 ## Collaboratos
 
-> **Dharma Reyes** - *MARUM Institute, University of Bremen, Germany* 
+> **Dharma Reyes** - *MARUM Institute, University of Bremen, Germany* - [dreyesmacaya@marum.de]
 
 > **Pablo Santamarina** - *Innovex, Ltd., Chile*
 
