@@ -18,7 +18,7 @@
 
 
 
-### ICollaborators:
+### Collaborators:
 
 Dharma Reyes Macaya
 
