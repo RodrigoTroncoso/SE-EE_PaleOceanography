@@ -5,7 +5,7 @@
 
 * **Dharma Reyes** - *MARUM Research, University of Bremen, Germany* 
 
-* **Pablo Santamarina** - [*Innovex (Ltd.)*](www.innovex.cl), Chile*
+* **Pablo Santamarina** - [*Innovex (Ltd.)*](www.innovex.cl)*, Chile*
 
 * **Rodrigo Troncoso** - *Jaume I University, Spain*
 
@@ -17,7 +17,7 @@
 
 > **Pablo Santamarina** - *Innovex, Ltd., Chile*
 
-> **Rodrigo Troncoso** - *Jaume I University, Spain* - [rodrigo.troncoso@live.cl]
+> **Rodrigo Troncoso** - *Jaume I University, Spain*
 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
