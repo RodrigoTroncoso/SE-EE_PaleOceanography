@@ -1,12 +1,21 @@
 # SE-EE_PaleOceanography
 
 
-
 ## Collaborators
 
 * **Dharma Reyes** - *MARUM Institute, University of Bremen, Germany* 
 
 * **Pablo Santamarina** - *Innovex, Ltd., Chile*
+
+* **Rodrigo Troncoso** - *Jaume I University, Spain*
+
+
+
+## Collaborators
+
+> **Dharma Reyes** - *MARUM Institute, University of Bremen, Germany* 
+
+> **Pablo Santamarina** - *Innovex, Ltd., Chile*
 
 > **Rodrigo Troncoso** - *Jaume I University, Spain*
 
