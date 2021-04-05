@@ -16,7 +16,6 @@ Introduction with picture: To determine the theoretical bottom water characteris
 - Create a special folder for your data 
 
 
-
 ### First Step for OVD users 
 
 Download the latest version of ODV in https://odv.awi.de/software/download/ 
