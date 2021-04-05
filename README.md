@@ -3,6 +3,16 @@
 ## SE-EE_PaleOceanography
 
 
+# BOT (Bottom water computation)
+
+## Getting started
+
+### Prerequisites
+
+
+
+
+
 ### Authors
 
 * **Dharma Reyes** - *MARUM Research, University of Bremen, Germany* 
