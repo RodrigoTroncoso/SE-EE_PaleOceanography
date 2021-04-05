@@ -1,15 +1,12 @@
 # (Under Construction)
 
-## SE-EE_PaleOceanography
-
-
 # BOT (Bottom water computation)
 
 ## Getting started
 
 ### Prerequisites
 
-
+### Installing
 
 
 
