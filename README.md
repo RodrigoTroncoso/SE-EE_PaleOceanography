@@ -29,7 +29,16 @@ Download the latest version of ODV in https://odv.awi.de/software/download/
 
 ### Second Step 
 
+### Determination of relative bottom water characteristics at the surface sediment sites
 
+With the goal of finding the relative bottom water hydrological characteristics from the grilled hydrological interpolations (explained in point 1) in top of surface sediments collected in the South-East Pacific, a python script was developed. 
+
+**Step 1.** Install Python (recommendable last edition) https://www.python.org/ 
+
+**Step 2.** Create in your PC a single folder for each hydrological parameter (eg. one specific folder for oxygen, temperature, salinity). In that folder, add 
+i) the hydrological parameter grilled text file obtained previously in Ocean Data View (example file format, https://drive.google.com/open?id=1DU3xOgopRsxX4oWs65YJ8nyRAoMPxk-9) 
+ii) the station’s text file (example file format https://drive.google.com/open?id=1usasObWq-_4XA57hb3dHwZay6TwVpQc2) and the 
+iii) python script. Remember that the name of the files needs to be simple and without spaces.  
 
 
 ### Authors
