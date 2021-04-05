@@ -11,7 +11,7 @@ Introduction with picture: To determine the theoretical bottom water characteris
 
 
 - Instal or use Ocean Data View software https://odv.awi.de/ or other program that allow you to obtained gridded interpolation plots (eg. surface, matlab, python, R). In this exercise we will use ODV. 
-- Instal or use text file manager (eg. note ++, excel). 
+- Instal or use text file manager (eg. note ++, Excel). 
 - Hydrological data set organize for be readed in ODV software 
 - Create a special folder for your data 
 
