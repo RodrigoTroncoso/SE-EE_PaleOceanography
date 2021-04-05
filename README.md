@@ -19,7 +19,7 @@
 
 > **Pablo Santamariina** - *Innovex (Ltd.), Chile*
 
-> **Rodrigo Troncoso** - *Jaume I University, Spain*
+> **Rodrigo Troncoso** - *Arturo Prat University, Iquique, Chile*
 
 
 
