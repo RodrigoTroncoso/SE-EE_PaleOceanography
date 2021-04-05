@@ -10,7 +10,7 @@
 
 
 
-![IMG logo](https://drive.google.com/file/d/1IT9sHVompKltdfNX_am5YrUw6COwEflL/view)
+![GC_MUC_sediment_model](https://user-images.githubusercontent.com/57748370/113622334-231a8e80-965d-11eb-977d-943e565c5e71.png)
 
 
 
