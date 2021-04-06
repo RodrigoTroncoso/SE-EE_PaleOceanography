@@ -71,7 +71,7 @@ iii) python script. Remember that the name of the files needs to be simple and w
 
 > **Dharma Reyes** - *MARUM Institute, University of Bremen, Germany* - [dreyesmacaya@marum.de]
 
-> **Pablo Santamariina** - *Innovex (Ltd.), Chile*
+> **Pablo Santamarina** - *Innovex (Ltd.), Chile*
 
 > **Rodrigo Troncoso** - *Arturo Prat University, Iquique, Chile*
 
