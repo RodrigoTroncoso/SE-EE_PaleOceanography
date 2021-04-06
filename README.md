@@ -56,7 +56,7 @@ iii) python script. Remember that the name of the files needs to be simple and w
 
 
 
-### Collaboratos
+### Collaborators
 
 > **Dharma Reyes** - *MARUM Institute, University of Bremen, Germany* - [dreyesmacaya@marum.de]
 
