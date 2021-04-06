@@ -31,7 +31,7 @@ Download the latest version of ODV in https://odv.awi.de/software/download/
 
 ### Second Step ...
 
-### Determination of relative bottom water characteristics at the surface sediment sites
+#### Determination of relative bottom water characteristics at the surface sediment sites
 
 With the goal of finding the relative bottom water hydrological characteristics from the grilled hydrological interpolations (explained in point 1) in top of surface sediments collected in the South-East Pacific, a python script was developed. 
 
