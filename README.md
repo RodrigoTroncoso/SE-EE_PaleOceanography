@@ -6,7 +6,6 @@ To determine the theoretical bottom water characteristics on top of the sediment
 
 ![GC_MUC_sediment_model](https://user-images.githubusercontent.com/57748370/113622334-231a8e80-965d-11eb-977d-943e565c5e71.png)
 
-## Getting started
 
 ### Prerequisites
 
@@ -14,6 +13,11 @@ To determine the theoretical bottom water characteristics on top of the sediment
 - Instal or use text file manager (eg. note ++, Excel). 
 - Hydrological data set organize for be readed in ODV software 
 - Create a special folder for your data 
+
+
+## Getting started
+
+
 
 
 ### First Step for OVD users 
