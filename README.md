@@ -2,7 +2,7 @@
 
 # BOT (Bottom water computation)
 
-Introduction with picture: To determine the theoretical bottom water characteristics on top of the sediment cores sites, we propose a simple finder script. From an hydrological data base organized in ODV software is possible to estimate it.
+To determine the theoretical bottom water characteristics on top of the sediment cores sites, we propose a simple finder script. From an hydrological data base organized in ODV software is possible to estimate it.
 
 ![GC_MUC_sediment_model](https://user-images.githubusercontent.com/57748370/113622334-231a8e80-965d-11eb-977d-943e565c5e71.png)
 
