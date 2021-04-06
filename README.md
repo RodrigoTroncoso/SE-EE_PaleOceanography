@@ -6,9 +6,8 @@ To determine the theoretical bottom water characteristics on top of the sediment
 
 ![GC_MUC_sediment_model](https://user-images.githubusercontent.com/57748370/113622334-231a8e80-965d-11eb-977d-943e565c5e71.png)
 
----
 
-### Prerequisites
+## Prerequisites
 
 - Instal or use Ocean Data View software https://odv.awi.de/ or other program that allow you to obtained gridded interpolation plots (eg. surface, matlab, python, R). In this exercise we will use ODV. 
 - Instal or use text file manager (eg. note ++, Excel). 
