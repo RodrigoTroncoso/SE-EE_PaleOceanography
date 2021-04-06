@@ -26,7 +26,7 @@ Download the latest version of ODV in https://odv.awi.de/software/download/
 - Organize the data by meridional o zonal hydrological section 
 - Use the tool **clipboard copy (right bottom, option Extra) type export grilled filled values with tabulations** were used. The full grilled data was a copy in an excel file, edited the first line taking care to avoid text space and saved in txt separated with tabulations or in comma-separated csv. For futher information use https://odv.awi.de/fileadmin/user_upload/odv/misc/odv4Guide.pdf 
 
-### Second Step 
+### Second Step ...
 
 ### Determination of relative bottom water characteristics at the surface sediment sites
 
