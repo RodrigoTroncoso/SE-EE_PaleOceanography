@@ -63,7 +63,7 @@ iii) python script. Remember that the name of the files needs to be simple and w
 
 * **Pablo Santamarina** - [*Innovex Tecnologías (Ltd.)*](www.innovex.cl)*, Chile*
 
-* **Rodrigo Troncoso** - *Arturo Prat University, Iquique, Chile*
+* **Rodrigo Troncoso** - *Bremen, Germany*
 
 
 
@@ -73,7 +73,7 @@ iii) python script. Remember that the name of the files needs to be simple and w
 
 > **Pablo Santamarina** - *Innovex (Ltd.), Chile*
 
-> **Rodrigo Troncoso** - *Arturo Prat University, Iquique, Chile*
+> **Rodrigo Troncoso** - *Bremen, Germany*
 
 
 
